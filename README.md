@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshjumani&label=Profile%20views&color=0e75b6&style=flat" alt="dineshjumani" /> </p>
 
-- 🌱 I’m currently learning **NodeJS,MaterialUI**
+- 🌱 I’m currently learning **NodeJS, MaterialUI**
 
 - 💬 Ask me about **ReactJS, Dart, Java**
 
